@@ -1,0 +1,20 @@
+# Windows hidden files
+Thumbs.db
+Desktop.ini
+
+# macOS hidden files
+.DS_Store
+
+# Common editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Future Node.js / NPM ignores (if applicable later)
+# node_modules/
+# npm-debug.log
+# yarn-error.log

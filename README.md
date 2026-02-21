@@ -21,7 +21,7 @@ Instructional and structured formats. Contains parsing rules, negative dictionar
 - Aesthetic definitions (`AESTHETICS_LIST.md`, `AESTHETICS_SHEET.csv`)
 - Directives for formatting outputs (`prompting-guide.md`, `negative-dictionary.md`)
 
-### `/google docs`
+### `/docs`
 Supplementary documentation and research outlines specific to different output modalities:
 - Image Generation
 - Video
