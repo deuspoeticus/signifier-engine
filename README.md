@@ -2,6 +2,8 @@
 
 > A RAG-based prompt generator utilizing a curated knowledge base of semiotics, art history, and technical cinematography.
 
+[Access the active Notebook here](https://notebooklm.google.com/notebook/6e66dc21-51b3-4cf8-83f4-fcf9b90b0aff)
+
 The Signifier Engine synthesizes conceptual inputs into structured JSON payloads optimized for image generation with Nano Banana Pro. By leveraging custom NotebookLM functionality, it processes queries through a deep, aesthetic, and structural lens.
 
 ## Structure
